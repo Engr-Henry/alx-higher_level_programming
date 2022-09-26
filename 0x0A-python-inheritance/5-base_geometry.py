@@ -1,6 +1,9 @@
 #!/usr/bin/python3
-"""Defines the BaseGeometry class"""
+# 5-base_geometry.py
+# Brennan D Baraban <375@holbertonschool.com>
+"""Defines an empty class BaseGeometry."""
 
 
 class BaseGeometry:
-    """Base class for geometry objects"""
+    """Represent base geometry."""
+    pass
